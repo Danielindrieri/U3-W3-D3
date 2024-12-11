@@ -1,9 +1,10 @@
 // 1;  boolean,number,string
-
+2
 const isnumber: number = 2
 const isstring: string = 'ciao'
 const isboolean: boolean = true
 
+3
 const greet = (name: string) => {
   return 'Ciao' + name
 }
